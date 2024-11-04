@@ -1,0 +1,1 @@
+To start with writing your own version of project, just delete the html, javascript and css files
